@@ -1,10 +1,11 @@
 # Explanatory-Data-Analysis-On-Facebook-Utilized-Data
-**GOAL :**
 
-  Study and analyze the differences in the way users are using Facebook based on their gender, age-group, etc.
+  
+  This project was created as a part of INSAID Capstone to **discover** and **analyze** a **pattern** in the way people use Facebook based on their **gender** and **age-groups.**  
 
-  Identify a pattern out of it.
 
-  This pattern might help the company in the next set of iteration development.
+**Detecting** this **pattern** can help the company to **understand** the **needs** of its **target market** and **develop** a more **refined version** of its application **catering** to the **exclusive needs** of its **users.** Overall, this will help Facebook to **enhance** its **user experience(UX)** to the fullest. 
 
-  This hidden pattern could end up improving their application and the user experience. 😄
+The **data** was **sourced** from an **open-source(csv file)** containing records of **Facebook users, their age, date of birth(year, month, day), gender, tenure on Facebook, number of posts liked(through mobile and web devices), number of likes received(through mobile and web devices) by the users,  friend count of the users, and friendships initiated by them.**
+
+By the **end** of this **project,** we will get our **most active** and **least actives users** on **Facebook** and the **most preferred version of Facebook(mobile vs web application).** This will help the company to **devise appropriate marketing strategies** based on the **usage pattern of the users.**
